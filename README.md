@@ -1,4 +1,4 @@
-Replace the path with your folder path.
+Replace the path with your folder path in settings.gradle.
 
 ```gradle
 gradle.ext.exoplayerRoot = 'C:/Users/webdev1/Documents/DevSudheer/samples/Lib/ExoPlayer'
